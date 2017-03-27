@@ -1,7 +1,7 @@
 <?php
 
 	function get_connection() {
-		$dsn = 'mysql:host=cssgate.insttech.washington.edu;dbname=cinwan12'; //Change dbname to yours
+		$dsn = ''; //Change dbname to yours
 		$userid = ''; //Change this to yours
 		$password = ''; //Change this to yours
 
